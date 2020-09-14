@@ -15,3 +15,4 @@ Dependencies
 * [python-chess](https://pypi.python.org/pypi/python-chess) `pip install python-chess`
 * [scikit-learn](http://scikit-learn.org/stable/install.html) (only needed for training)
 * [h5py](http://www.h5py.org/): can be installed using `apt-get install python-hdf5` or `pip install hdf5` (only needed for training)
+[![Run on Repl.it](https://repl.it/badge/github/erikbern/deep-pink)](https://repl.it/github/erikbern/deep-pink)
